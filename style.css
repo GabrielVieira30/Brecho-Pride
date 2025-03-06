@@ -1,9 +1,16 @@
 #navbar{
     margin: 0px;
-    padding: 5px;
+    padding: 50px;
     background-color: gray;
     
 }
 .flex{
     display: flex;
+}
+
+.title{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    
 }
