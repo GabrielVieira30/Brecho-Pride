@@ -14,6 +14,7 @@
     text-align: center;
     
 }
+<<<<<<< HEAD
 .imagem{
   margin: 20px;
   width: 1000px;
@@ -21,3 +22,11 @@
   
   
 }
+=======
+
+.footer{
+    background-color: rgb(182, 176, 168);
+    padding: 40px;
+    text-align: center;
+}
+>>>>>>> 67b5ebd9de2305b830c4856304cc7c22348cdb41
