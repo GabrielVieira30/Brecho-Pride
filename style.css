@@ -18,7 +18,7 @@
 
 .imagem{
   margin: 20px;
-  width: 440px;
+  width: 430px;
 }
 
 .footer{
@@ -27,7 +27,7 @@
     text-align: center;
 }
 #pride{
-    width: 5%;
+    width: 7%;
 }
 
 .preco{
@@ -47,12 +47,28 @@ background-color: gray;
 .carousel{
     display: flex;
     overflow: auto;
-    width: 30%;
-    height: 20%;
+    width: 425px;
+    height: 300px;
     scroll-snap-type: x mandatory;
 }
 
 #carousels{
-    width: 1050px;
-    height: 950px;
+    width: 500px;
+    height: 400px;
+}
+
+.center{
+    text-align: center;
+}
+
+.contato{
+    margin: 10px;
+    background-color: black;
+    width: 370px; 
+    border: solid;
+    color: aliceblue;
+}
+
+#textbox{
+    height: 20px;
 }
