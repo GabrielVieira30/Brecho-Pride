@@ -1,6 +1,6 @@
 #navbar{
     margin: 0px;
-    padding: 50px;
+    padding: 15px;
     background-color: gray;
     
 }
@@ -14,10 +14,27 @@
     text-align: center;
     
 }
+
+
 .imagem{
   margin: 20px;
-  width: 1000px;
-  color
-  
-  
+  width: 440px;
+}
+
+.footer{
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+#pride{
+    width: 5%;
+}
+
+.preco{
+    text-align: center
+}
+
+.card{
+    
+
 }
