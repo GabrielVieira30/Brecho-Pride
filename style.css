@@ -35,11 +35,24 @@
 }
 
 .card{
-
+border-color: grey;   
+border: 200px; 
 background-color: gray;
 
 }
 .cabecalho{
     text-align: center;
 
+}
+.carousel{
+    display: flex;
+    overflow: auto;
+    width: 30%;
+    height: 20%;
+    scroll-snap-type: x mandatory;
+}
+
+#carousels{
+    width: 1050px;
+    height: 950px;
 }
